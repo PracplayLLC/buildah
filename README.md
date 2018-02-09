@@ -76,3 +76,4 @@ chmod +x lighttpd.sh
 **Future goals include:**
 * more CI tests
 * additional CLI commands (?)
+
